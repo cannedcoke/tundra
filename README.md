@@ -1,4 +1,4 @@
-# Tundra 📸
+# Tundra 
 
 A Flutter photo editing app that lets you pick an image from your camera or gallery, apply color filters, and save the result directly to your gallery.
 
